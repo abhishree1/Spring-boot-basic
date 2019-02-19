@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Abhishree Khangar
+Build-Jdk: 11.0.2
+Implementation-Title: Java
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SpringBoot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/Course-api
+Created-By: Maven Integration for Eclipse
+
